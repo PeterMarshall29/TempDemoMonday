@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Greetings 2024 CompA Students!")
+print("Greetings !")
 
